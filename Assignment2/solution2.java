@@ -15,6 +15,8 @@ public class solution2 {
         int y = 123;
         result = y/10;     
         System.out.println(result);
+
+        //3. swap two numbers without using third variable
     }
     
 }
