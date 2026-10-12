@@ -17,6 +17,13 @@ public class solution2 {
         System.out.println(result);
 
         //3. swap two numbers without using third variable
+        int a = 5;
+        int b = 10;
+
+        a = a + b; // a now becomes 15
+        b = a - b; // b becomes 5
+        a = a - b; // a becomes 10
+        System.out.println("After swapping: a = " + a + ", b = " + b);
     }
     
 }
