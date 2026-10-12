@@ -23,7 +23,7 @@ public class solution2 {
         a = a + b; // a now becomes 15
         b = a - b; // b becomes 5
         a = a - b; // a becomes 10
-        System.out.println("After swapping: a = " + a + ", b = ?" + b);
+        System.out.println("After swapping: a = " + a + ", b = " + b);
     }
     
 }
